@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20coding%20space&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Architecting%20Systems&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Security%20|%20Backend%20|%20Automation&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 ### 👨‍💻 About Me
