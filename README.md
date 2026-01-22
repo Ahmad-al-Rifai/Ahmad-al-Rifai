@@ -33,17 +33,16 @@ I'm a **Computer Science Student** passionate about building scalable systems an
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-al-Rifai&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-al-Rifai&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-al-Rifai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-al-Rifai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-al-Rifai&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-al-Rifai&theme=tokyonight&hide_border=true" height="165" alt="streak graph" />
 </div>
-
----
 
 <div align="center">
   <h3>📫 Connect with me</h3>
